@@ -1,5 +1,7 @@
 # Case 005: Home Network Design and VLAN Configuration in Cisco Packet Tracer
 
+**Investigation Date:** June 2026
+
 ## Overview
 
 This case documents the initial development of a simulated home network in Cisco Packet Tracer, including physical topology design, switch configuration, VLAN fundamentals, router subinterfaces, and attempts to expand the lab toward DHCP, wireless connectivity, and network automation.
