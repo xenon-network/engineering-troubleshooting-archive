@@ -1,4 +1,4 @@
-# Case 002: Home Network Performance Troubleshooting
+# Case 001: Home Network Performance Troubleshooting
 
 ## Investigation Date: June 2026
 
