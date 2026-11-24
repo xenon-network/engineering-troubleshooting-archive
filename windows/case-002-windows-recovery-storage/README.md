@@ -1,8 +1,19 @@
 # Case 002: Windows Recovery Blocked by Storage Failures and Boot Media Problems
 
+**Date discovered:** July 2026
+
+**Date resolved:** July 2026
+
+**Replacement drive:** QOPP 128 GB SATA III SSD
+
+**Resolution:** Replaced the failing Kingston SUV400S37120G with a new QOPP SSD and proceeded with a clean Windows installation.
+
 **Category:** Windows System Recovery / Hardware Troubleshooting / Storage / Boot Configuration
-**Status:** Unresolved in the available historical record
+
+**Status:** Resolved
+
 **Platform:** Windows 10 → attempted Windows 11 recovery/installation
+
 **Incident type:** Multi-layer troubleshooting
 
 ## 1. Problem Overview
@@ -302,5 +313,3 @@ It became a combined investigation involving:
 - Data preservation.
 
 The main engineering lesson is that troubleshooting should follow evidence across layers. When operating-system recovery repeatedly fails, hardware health and the recovery environment itself must be investigated before continuing with software repair procedures.
-
-**Final status: Unresolved in the available history. Replacement storage and installation media were selected as the next recovery step, but the final installation result was not documented.**
