@@ -245,15 +245,7 @@ The investigation did not establish whether the underlying cause was:
 
 No single root cause was confirmed.
 
-## 12. Final Status
-
-**Unresolved.**
-
-A Windows repair installation was considered as a potential recovery approach.
-
-The available investigation record does not confirm that the repair installation was completed or that it resolved the issue.
-
-## 13. Lessons Learned
+## 12. Lessons Learned
 
 1. A service appearing in the service database does not necessarily mean it can start successfully.
 2. System integrity repairs may not resolve every service configuration or runtime problem.
@@ -264,7 +256,7 @@ The available investigation record does not confirm that the repair installation
 7. Troubleshooting should have clear stopping conditions when the risk of further changes exceeds the potential benefit.
 8. An unresolved investigation can still provide useful technical knowledge when evidence, experiments, and limitations are documented.
 
-## 14. Further Investigation
+## 13. Further Investigation
 
 Potential next steps, if the investigation were resumed:
 
@@ -278,7 +270,7 @@ Potential next steps, if the investigation were resumed:
 
 These steps were not all completed and should not be interpreted as confirmed findings.
 
-## 15. AI-Assisted Troubleshooting
+## 14. AI-Assisted Troubleshooting
 
 AI was used throughout the investigation to:
 
