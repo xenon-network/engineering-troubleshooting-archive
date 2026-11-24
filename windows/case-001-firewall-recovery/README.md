@@ -1,7 +1,9 @@
 # Case 001: Windows Defender Firewall Service Failure
 
 **Date discovered:** July 2026
+
 **Date investigation concluded:** July 2026
+
 **Status:** Resolved by installation new Windows 11 Pro OS
 
 ## Summary
